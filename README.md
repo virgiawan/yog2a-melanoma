@@ -97,3 +97,6 @@ We made a website to implement our model. This website is deployed and hosted us
 Please check our web app: [Melanoma Web App](http://34.101.76.215:8080/)
 
 ## References
+
+1. [Dataset](https://www.kaggle.com/drscarlat/melanoma)
+2. [Web App Source](https://github.com/virgiawan/yog2a-melanoma-web)
