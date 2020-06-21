@@ -17,7 +17,7 @@
 ## Getting Started
 1. Clone this [repository](https://github.com/virgiawan/yog2a-melanoma)
 ```
-git clone https://github.com/udacity/dermatologist-ai.git
+git clone https://github.com/virgiawan/yog2a-melanoma.git
 ```
 2. Download and unzip data from [kaggle](https://www.kaggle.com/drscarlat/melanoma) (3 GB)
 ```
