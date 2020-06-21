@@ -1,5 +1,6 @@
 [//]: # (Image References)
 
+[melanoma_moles]: https://sa1s3optim.patientpop.com/assets/images/provider/photos/1505812.jpg
 [accuracy]: ./images/accuracy.JPG "Accuracy"
 [confusion_matrix]: ./images/confusion_matrix.JPG "Confusion Matrix"
 [roc]: ./images/roc.JPG "ROC Curves"
@@ -13,6 +14,9 @@
 4. [Yusuf Mukti](https://github.com/yusufmukti1209)
 
 ## Introduction
+In this project, we try to build a model to detect [melanoma](http://www.skincancer.org/skin-cancer-information/melanoma), the deadliest form of skin cancer. In particular, our model will distinguish this malignant skin tumor from skin lesions dataset. Visually, we can distinguish normal moles and abnormal moles using [ABCDEF Method](https://www.pinebeltderm.com/blog/abcdefs-of-changing-moles-melanoma)
+
+![Melanoma Moles][melanoma_moles]
 
 ## Getting Started
 1. Clone this [repository](https://github.com/virgiawan/yog2a-melanoma)
@@ -100,3 +104,9 @@ Please check our web app: [Melanoma Web App](http://34.101.76.215:8080/)
 
 1. [Dataset](https://www.kaggle.com/drscarlat/melanoma)
 2. [Web App Source](https://github.com/virgiawan/yog2a-melanoma-web)
+3. [Epidemiology of Melanoma and Nonmelanoma skin cancer - The Role of Sunlight](https://link.springer.com/chapter/10.1007/978-0-387-77574-6_8)
+4. [Melanoma skin cancer statistics - World Cancer Research Fund](https://www.wcrf.org/dietandcancer/cancer-trends/skin-cancer-statistics)
+5. [Using the 7-point checklist as a diagnostic aid for pigmented skin lesions in general practice: a diagnostic validation study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3635581/)
+6. [Malignant Melanoma Staging](https://emedicine.medscape.com/article/2007147-overview#a1)
+7. [Skin Cancer Treatment](https://www.nhs.uk/conditions/melanoma-skin-cancer/treatment/)
+8. [Malignant Melanoma Treatment & Management](https://emedicine.medscape.com/article/280245-treatment#d1)
